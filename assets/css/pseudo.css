@@ -13,7 +13,7 @@ td {
     text-align: center;
 }
 
-tr:nth-of-type(odd){
+tr{
     background-color: lightblue;
 }
 
